@@ -53,8 +53,6 @@ button:hover, a:hover {
     <a href="https://www.linkedin.com/in/realsajat/"><i class="fa fa-linkedin"></i></a>  
     <a href="https://www.facebook.com/realsajat"><i class="fa fa-facebook"></i></a> 
   </div>
-  <button class="FW1syM7 L1yjt43 p9qU5Ka co-white btn-contact-me bg-co-green-700" rel="nofollow" data-user-id="sajjatmohammed">Contact Me
-  </button>
   <p><button>Contact</button></p>
 </div>
 
