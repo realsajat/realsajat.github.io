@@ -44,9 +44,9 @@ button:hover, a:hover {
 <h2 style="text-align:center">User Profile Card</h2>
 
 <div class="card">
-  <img src="My Images/Sajat_4.jpg" alt="Sajat" style="width:100%">
+  <img src="https://imgur.com/Uynj7Cz" alt="Sajat" style="width:100%">
   <h1>SAJAT</h1>
-  <p class="title">Freelancer</p>
+  <p class="title">Web Researcher | Data Entry | Lead Generation</p>
   <p>Jain (Deemed To-Be University)</p>
   <div style="margin: 24px 0;">
     <a href="https://www.twitter.com/realsajat"><i class="fa fa-twitter"></i></a>  
