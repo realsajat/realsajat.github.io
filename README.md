@@ -49,7 +49,7 @@ button:hover, a:hover {
   <p class="title">Web Researcher, Fiverr</p>
   <p>Jain (Deemed To-Be University)</p>
   <div style="margin: 24px 0;">
-    <a href="https://www.twitter.com/realsajat"><i class="fa fa-twitter"><target=”_blank”></i></a>  
+    <a href="https://www.twitter.com/realsajat"><target="_blank"><i class="fa fa-twitter"></i></a>  
     <a href="https://www.linkedin.com/in/realsajat/"><i class="fa fa-linkedin"></i></a>  
     <a href="https://www.facebook.com/realsajat"><i class="fa fa-facebook"></i></a> 
   </div>
