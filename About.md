@@ -1,3 +1,5 @@
+<html>
+<head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .card {
@@ -53,3 +55,5 @@ button:hover, a:hover {
   </div>
   <p><button>Contact</button></p>
 </div>
+</body>
+</html>
