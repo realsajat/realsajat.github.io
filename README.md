@@ -38,7 +38,7 @@ body {
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
-  <a href="https://github.com/realsajat/SM-Support/blob/daf80a0157c9386d26c071a53d5a121e6815878d/About.md">About</a>
+  <a href="https://realsajat.me/about">About</a>
 </div>
 
 <div style="padding-left:16px">
